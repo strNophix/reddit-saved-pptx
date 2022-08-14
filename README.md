@@ -6,7 +6,7 @@ Convert your Reddit saved posts into a powerpoint presentation. Code can be easi
 - npm (npx)
 - [A Reddit application](https://www.reddit.com/prefs/apps)
 
-# Usage
+## Usage
 ```bash
 # One-time setup of the necessary environment variables
 cp .env.sample .env
