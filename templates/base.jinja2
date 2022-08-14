@@ -1,0 +1,7 @@
+---
+marp: true
+theme: default
+{% for post in nsfw_posts %}
+---
+![bg contain]({{ post.url }})
+{% endfor %}
